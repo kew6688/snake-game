@@ -1,0 +1,8 @@
+  Yukai Wang
+  20757202 y3229wan
+  openjdk version "11.0.2"
+  windows10 (Surface Pro 6)
+
+  it might be easier to test the snake eat itself by change the default size (line 44)
+  The snake length increase 1 block each time.
+  However when it goes to the next level, the length looks like increasing since the overlap area is reduced.
